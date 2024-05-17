@@ -15,6 +15,10 @@
   </a>
 </p>
 
+In computing, natural sort order (or natural sorting) is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order. Natural sort order is not a match of Windows Explorer sort order.
+
+A package reorder directory and files to match natural sort order. A config `tree-view.sortFoldersBeforeFiles` is considered.
+
 ## Installation
 
 To install `tree-view-natsort` search for [tree-view-natsort](https://web.pulsar-edit.dev/packages/tree-view-natsort) in the Install pane of the Pulsar settings or run `ppm install tree-view-natsort`. Alternatively, you can run `ppm install bacadra/pulsar-tree-view-natsort` to install a package directly from the Github repository.
