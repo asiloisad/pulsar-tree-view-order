@@ -1,5 +1,5 @@
 {
-  "description": "Tree-view natural sorting",
+  "description": "Reorder items of tree-view",
   "keywords": [
     "bacadra",
     "tree-view",
@@ -10,11 +10,14 @@
     "atom": ">=1.100.0 <2.0.0"
   },
   "main": "./lib/main",
-  "name": "tree-view-natsort",
-  "homepage": "https://github.com/bacadra/pulsar-tree-view-natsort",
-  "url": "https://github.com/bacadra/pulsar-tree-view-natsort",
-  "repository": "https://github.com/bacadra/pulsar-tree-view-natsort",
+  "name": "tree-view-order",
+  "homepage": "https://github.com/bacadra/pulsar-tree-view-order",
+  "url": "https://github.com/bacadra/pulsar-tree-view-order",
+  "repository": "https://github.com/bacadra/pulsar-tree-view-order",
   "version": "0.0.0",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "natsort": "^2.0.3",
+    "natural-compare-lite": "^1.4.0"
+  }
 }

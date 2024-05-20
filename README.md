@@ -1,17 +1,17 @@
-# tree-view-natsort
+# tree-view-order
 
 <p align="center">
-  <a href="https://github.com/bacadra/pulsar-tree-view-natsort/tags">
-  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-tree-view-natsort?style=for-the-badge&label=Latest&color=blue" alt="Latest">
+  <a href="https://github.com/bacadra/pulsar-tree-view-order/tags">
+  <img src="https://img.shields.io/github/v/tag/bacadra/pulsar-tree-view-order?style=for-the-badge&label=Latest&color=blue" alt="Latest">
   </a>
-  <a href="https://github.com/bacadra/pulsar-tree-view-natsort/issues">
-  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-tree-view-natsort?style=for-the-badge&color=blue" alt="OpenIssues">
+  <a href="https://github.com/bacadra/pulsar-tree-view-order/issues">
+  <img src="https://img.shields.io/github/issues-raw/bacadra/pulsar-tree-view-order?style=for-the-badge&color=blue" alt="OpenIssues">
   </a>
-  <a href="https://github.com/bacadra/pulsar-tree-view-natsort/blob/master/package.json">
-  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-tree-view-natsort?style=for-the-badge&color=blue" alt="Language">
+  <a href="https://github.com/bacadra/pulsar-tree-view-order/blob/master/package.json">
+  <img src="https://img.shields.io/github/languages/top/bacadra/pulsar-tree-view-order?style=for-the-badge&color=blue" alt="Language">
   </a>
-  <a href="https://github.com/bacadra/pulsar-tree-view-natsort/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/bacadra/pulsar-tree-view-natsort?style=for-the-badge&color=blue" alt="Licence">
+  <a href="https://github.com/bacadra/pulsar-tree-view-order/blob/master/LICENSE">
+  <img src="https://img.shields.io/github/license/bacadra/pulsar-tree-view-order?style=for-the-badge&color=blue" alt="Licence">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ A package reorder directory and files to match natural sort order. A config `tre
 
 ## Installation
 
-To install `tree-view-natsort` search for [tree-view-natsort](https://web.pulsar-edit.dev/packages/tree-view-natsort) in the Install pane of the Pulsar settings or run `ppm install tree-view-natsort`. Alternatively, you can run `ppm install bacadra/pulsar-tree-view-natsort` to install a package directly from the Github repository.
+To install `tree-view-order` search for [tree-view-order](https://web.pulsar-edit.dev/packages/tree-view-order) in the Install pane of the Pulsar settings or run `ppm install tree-view-order`. Alternatively, you can run `ppm install bacadra/pulsar-tree-view-order` to install a package directly from the Github repository.
 
 # Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
