@@ -19,5 +19,8 @@
   "dependencies": {
     "natsort": "^2.0.3",
     "natural-compare-lite": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/natural-compare-lite": "^1.4.2"
   }
 }
