@@ -1,4 +1,4 @@
-# tree-view-order
+# tree-view-natsort
 
 <p align="center">
   <a href="https://github.com/bacadra/pulsar-tree-view-order/tags">
@@ -15,9 +15,9 @@
   </a>
 </p>
 
-In computing, natural sort order (or natural sorting) is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order. Natural sort order is not a match of Windows Explorer sort order.
+In computing, natural sort order (or natural sorting) is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order.
 
-A package reorder directory and files to match natural sort order. A config `tree-view.sortFoldersBeforeFiles` is considered.
+A package can reorder items of tree list to match natural sort order.
 
 ## Installation
 
