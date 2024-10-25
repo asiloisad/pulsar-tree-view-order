@@ -1,8 +1,6 @@
-# tree-view-natsort
+# tree-view-order
 
-In computing, natural sort order (or natural sorting) is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order.
-
-A package can reorder items of tree list to match natural sort order.
+Select sort method of tree-view. In computing, natural sort order is the ordering of strings in alphabetical order, except that multi-digit numbers are treated atomically, i.e., as if they were a single character. Natural sort order has been promoted as being more human-friendly ("natural") than machine-oriented, pure alphabetical sort order.
 
 ## Installation
 
@@ -10,4 +8,4 @@ To install `tree-view-order` search for [tree-view-order](https://web.pulsar-edi
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
