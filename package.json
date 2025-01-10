@@ -14,7 +14,7 @@
   "homepage": "https://github.com/bacadra/pulsar-tree-view-order",
   "url": "https://github.com/bacadra/pulsar-tree-view-order",
   "repository": "https://github.com/bacadra/pulsar-tree-view-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "dependencies": {
     "natsort": "^2.0.3",
