@@ -3,8 +3,8 @@
   "description": "Select sort method of tree-view",
   "repository": "https://github.com/bacadra/pulsar-tree-view-order",
   "keywords": [
-    "bacadra",
     "tree-view",
+    "order",
     "sort",
     "natural"
   ],
