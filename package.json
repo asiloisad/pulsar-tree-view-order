@@ -17,5 +17,19 @@
   "dependencies": {
     "natsort": "^2.0.3",
     "natural-compare-lite": "^1.4.0"
+  },
+  "configSchema": {
+    "sortMethod": {
+      "order": 1,
+      "title": "Sort method",
+      "description": "Select the tree view sorting method.",
+      "type": "integer",
+      "enum": [
+        { "value": 0, "description": "Original tree-view" },
+        { "value": 1, "description": "Natural sorting: alphabetical and numbers" },
+        { "value": 2, "description": "Natural sorting: by character code and numbers" }
+      ],
+      "default": 1
+    }
   }
 }

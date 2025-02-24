@@ -4,7 +4,7 @@ Select sort method of tree-view. In computing, natural sort order is the orderin
 
 ## Installation
 
-To install `tree-view-order` search for [tree-view-order](https://web.pulsar-edit.dev/packages/tree-view-order) in the Install pane of the Pulsar settings or run `ppm install tree-view-order`. Alternatively, you can run `ppm install asiloisad/pulsar-tree-view-order` to install a package directly from the Github repository.
+To install `tree-view-order` search for [tree-view-order](https://web.pulsar-edit.dev/packages/tree-view-order) in the Install pane of the Pulsar settings or run `ppm install tree-view-order`. Alternatively, you can run `ppm install asiloisad/pulsar-tree-view-order` to install a package directly from the GitHub repository.
 
 # Contributing
 
