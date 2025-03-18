@@ -30,6 +30,13 @@
         { "value": 2, "description": "Natural sorting: by character code and numbers" }
       ],
       "default": 1
+    },
+    "sortByBase": {
+      "order": 2,
+      "title": "Sort by base",
+      "description": "Sort items by base name and extension independently (like Windows)",
+      "type": "boolean",
+      "default": true
     }
   }
 }
