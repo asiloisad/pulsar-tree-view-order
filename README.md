@@ -2,6 +2,8 @@
 
 Natural sort order for tree-view files and folders.
 
+Consider to use [tree-view-plus](https://github.com/asiloisad/tree-view-plus) instead.
+
 ## Features
 
 - **Natural sorting**: Treats multi-digit numbers atomically (e.g., `file2` before `file10`).
@@ -13,4 +15,4 @@ To install `tree-view-order` search for [tree-view-order](https://web.pulsar-edi
 
 ## Contributing
 
-Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback's welcome!
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub. Any feedback is welcome!
